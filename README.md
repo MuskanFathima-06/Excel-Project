@@ -48,4 +48,4 @@ Using a **Bike Sales dataset**, I performed data cleaning to fix inconsistencies
 👩‍💻 **Muskan Fathima**  
 - [LinkedIn](https://www.linkedin.com/in/muskan-fathima-1497743a4/)  
 - [GitHub](https://github.com/MuskanFathima-06)  
-- [Resume](https://github.com/MuskanFathima-06/Resume/blob/main/MuskanFathima_Resume.pdf)
+- [Resume](https://github.com/MuskanFathima-06/Resume/blob/main/MuskanFathima__Resume.pdf)
